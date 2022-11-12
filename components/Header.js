@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { HomeIcon, UserIcon, PhoneIcon, InformationCircleIcon } from '@heroicons/react/24/solid';
+import { HomeIcon, UserIcon, PhoneIcon, InformationCircleIcon } from '@heroicons/react/solid';
 import HeaderIcon from "../components/HeaderIcon";
 
 
